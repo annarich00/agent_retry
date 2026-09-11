@@ -3,7 +3,7 @@
 Static Astro site for the **Agents in a Rendezvous** research project.
 
 ## Live URL
-https://annarich.github.io/agent_retry/
+[https://annarich.github.io/agent_retry/]
 
 ## Local development
 1. Install dependencies:
